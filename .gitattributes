@@ -1,3 +1,7 @@
 data/dataset/Amazon_Product_Review/Reviews.csv filter=lfs diff=lfs merge=lfs -text
 data/dataset/Rotten_Tomatoes_Review/rotten_tomatoes_critic_reviews.csv filter=lfs diff=lfs merge=lfs -text
+data/dataset/Rotten_Tomatoes_Review/rotten_tomatoes_movies.csv filter=lfs diff=lfs merge=lfs -text
+data/dataset/Books_Review/books.csv filter=lfs diff=lfs merge=lfs -text
+data/dataset/Google_playstore_Review/reviews.csv filter=lfs diff=lfs merge=lfs -text
+data/dataset/YELP_Review/yelp.csv filter=lfs diff=lfs merge=lfs -text
 data/cleaned_dataset/amazon_cleanedreview.csv !text !filter !merge !diff
