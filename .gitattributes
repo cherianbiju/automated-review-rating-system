@@ -5,4 +5,5 @@ data/dataset/Books_Review/books.csv filter=lfs diff=lfs merge=lfs -text
 data/dataset/Google_playstore_Review/reviews.csv filter=lfs diff=lfs merge=lfs -text
 data/dataset/YELP_Review/yelp.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned_dataset/amazon_cleanedreview.csv filter=lfs diff=lfs merge=lfs -text
 data/cleaned_dataset/amazon_cleanedreview.csv !text !filter !merge !diff
